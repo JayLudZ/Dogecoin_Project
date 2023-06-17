@@ -1,0 +1,2650 @@
+275: {date: "2021-02-24", telegram: {neutral: 7, negative: 0, positive: 25},…}
+date: "2021-02-24"
+telegram: {neutral: 7, negative: 0, positive: 25}
+negative: 0
+neutral: 7
+positive: 25
+twitter: {neutral: 9312, negative: 501, positive: 2869}
+negative: 501
+neutral: 9312
+positive: 2869
+276: {date: "2021-02-25", telegram: {neutral: 11, negative: 2, positive: 23},…}
+date: "2021-02-25"
+telegram: {neutral: 11, negative: 2, positive: 23}
+negative: 2
+neutral: 11
+positive: 23
+twitter: {neutral: 8256, negative: 383, positive: 2311}
+negative: 383
+neutral: 8256
+positive: 2311
+277: {date: "2021-02-26", telegram: {neutral: 23, negative: 1, positive: 16},…}
+date: "2021-02-26"
+telegram: {neutral: 23, negative: 1, positive: 16}
+negative: 1
+neutral: 23
+positive: 16
+twitter: {neutral: 5753, negative: 319, positive: 1908}
+negative: 319
+neutral: 5753
+positive: 1908
+278: {date: "2021-02-27", telegram: {neutral: 18, negative: 0, positive: 2},…}
+date: "2021-02-27"
+telegram: {neutral: 18, negative: 0, positive: 2}
+negative: 0
+neutral: 18
+positive: 2
+twitter: {neutral: 4027, negative: 203, positive: 1751}
+negative: 203
+neutral: 4027
+positive: 1751
+279: {date: "2021-02-28", telegram: {neutral: 8, negative: 1, positive: 27},…}
+date: "2021-02-28"
+telegram: {neutral: 8, negative: 1, positive: 27}
+negative: 1
+neutral: 8
+positive: 27
+twitter: {neutral: 4731, negative: 315, positive: 2176}
+negative: 315
+neutral: 4731
+positive: 2176
+280: {date: "2021-03-01", telegram: {neutral: 3, negative: 0, positive: 9},…}
+date: "2021-03-01"
+telegram: {neutral: 3, negative: 0, positive: 9}
+negative: 0
+neutral: 3
+positive: 9
+twitter: {neutral: 6132, negative: 286, positive: 2345}
+negative: 286
+neutral: 6132
+positive: 2345
+281: {date: "2021-03-02", telegram: {neutral: 9, negative: 0, positive: 13},…}
+date: "2021-03-02"
+telegram: {neutral: 9, negative: 0, positive: 13}
+negative: 0
+neutral: 9
+positive: 13
+twitter: {neutral: 6079, negative: 314, positive: 2684}
+negative: 314
+neutral: 6079
+positive: 2684
+282: {date: "2021-03-03", telegram: {neutral: 5, negative: 0, positive: 18},…}
+date: "2021-03-03"
+telegram: {neutral: 5, negative: 0, positive: 18}
+negative: 0
+neutral: 5
+positive: 18
+twitter: {neutral: 5226, negative: 241, positive: 2000}
+negative: 241
+neutral: 5226
+positive: 2000
+283: {date: "2021-03-04", telegram: {neutral: 5, negative: 0, positive: 6},…}
+date: "2021-03-04"
+telegram: {neutral: 5, negative: 0, positive: 6}
+negative: 0
+neutral: 5
+positive: 6
+twitter: {neutral: 5492, negative: 257, positive: 2092}
+negative: 257
+neutral: 5492
+positive: 2092
+284: {date: "2021-03-05", telegram: {neutral: 13, negative: 0, positive: 3},…}
+date: "2021-03-05"
+telegram: {neutral: 13, negative: 0, positive: 3}
+negative: 0
+neutral: 13
+positive: 3
+twitter: {neutral: 5049, negative: 283, positive: 1907}
+negative: 283
+neutral: 5049
+positive: 1907
+285: {date: "2021-03-06", telegram: {neutral: 9, negative: 0, positive: 2},…}
+date: "2021-03-06"
+telegram: {neutral: 9, negative: 0, positive: 2}
+negative: 0
+neutral: 9
+positive: 2
+twitter: {neutral: 6418, negative: 286, positive: 3195}
+negative: 286
+neutral: 6418
+positive: 3195
+286: {date: "2021-03-07", telegram: {neutral: 8, negative: 0, positive: 23},…}
+date: "2021-03-07"
+telegram: {neutral: 8, negative: 0, positive: 23}
+negative: 0
+neutral: 8
+positive: 23
+twitter: {neutral: 5126, negative: 220, positive: 2304}
+negative: 220
+neutral: 5126
+positive: 2304
+287: {date: "2021-03-08", telegram: {neutral: 6, negative: 5, positive: 0},…}
+date: "2021-03-08"
+telegram: {neutral: 6, negative: 5, positive: 0}
+negative: 5
+neutral: 6
+positive: 0
+twitter: {neutral: 9807, negative: 441, positive: 4153}
+negative: 441
+neutral: 9807
+positive: 4153
+288: {date: "2021-03-09", telegram: {neutral: 5, negative: 0, positive: 2},…}
+date: "2021-03-09"
+telegram: {neutral: 5, negative: 0, positive: 2}
+negative: 0
+neutral: 5
+positive: 2
+twitter: {neutral: 6345, negative: 294, positive: 3137}
+negative: 294
+neutral: 6345
+positive: 3137
+289: {date: "2021-03-10", telegram: {neutral: 6, negative: 0, positive: 12},…}
+date: "2021-03-10"
+telegram: {neutral: 6, negative: 0, positive: 12}
+negative: 0
+neutral: 6
+positive: 12
+twitter: {neutral: 5169, negative: 240, positive: 2139}
+negative: 240
+neutral: 5169
+positive: 2139
+290: {date: "2021-03-11", telegram: {neutral: 5, negative: 0, positive: 9},…}
+date: "2021-03-11"
+telegram: {neutral: 5, negative: 0, positive: 9}
+negative: 0
+neutral: 5
+positive: 9
+twitter: {neutral: 5327, negative: 194, positive: 1922}
+negative: 194
+neutral: 5327
+positive: 1922
+291: {date: "2021-03-12", telegram: {neutral: 16, negative: 1, positive: 1},…}
+date: "2021-03-12"
+telegram: {neutral: 16, negative: 1, positive: 1}
+negative: 1
+neutral: 16
+positive: 1
+twitter: {neutral: 4958, negative: 218, positive: 2403}
+negative: 218
+neutral: 4958
+positive: 2403
+292: {date: "2021-03-13", telegram: {neutral: 10, negative: 2, positive: 4},…}
+date: "2021-03-13"
+telegram: {neutral: 10, negative: 2, positive: 4}
+negative: 2
+neutral: 10
+positive: 4
+twitter: {neutral: 7378, negative: 287, positive: 4336}
+negative: 287
+neutral: 7378
+positive: 4336
+293: {date: "2021-03-14", telegram: {neutral: 28, negative: 2, positive: 9},…}
+date: "2021-03-14"
+telegram: {neutral: 28, negative: 2, positive: 9}
+negative: 2
+neutral: 28
+positive: 9
+twitter: {neutral: 8232, negative: 348, positive: 3326}
+negative: 348
+neutral: 8232
+positive: 3326
+294: {date: "2021-03-15", telegram: {neutral: 9, negative: 0, positive: 3},…}
+date: "2021-03-15"
+telegram: {neutral: 9, negative: 0, positive: 3}
+negative: 0
+neutral: 9
+positive: 3
+twitter: {neutral: 5783, negative: 313, positive: 2321}
+negative: 313
+neutral: 5783
+positive: 2321
+295: {date: "2021-03-16", telegram: {neutral: 24, negative: 0, positive: 2},…}
+date: "2021-03-16"
+telegram: {neutral: 24, negative: 0, positive: 2}
+negative: 0
+neutral: 24
+positive: 2
+twitter: {neutral: 5508, negative: 265, positive: 2112}
+negative: 265
+neutral: 5508
+positive: 2112
+296: {date: "2021-03-17", telegram: {neutral: 7, negative: 1, positive: 3},…}
+date: "2021-03-17"
+telegram: {neutral: 7, negative: 1, positive: 3}
+negative: 1
+neutral: 7
+positive: 3
+twitter: {neutral: 5732, negative: 295, positive: 2276}
+negative: 295
+neutral: 5732
+positive: 2276
+297: {date: "2021-03-18", telegram: {neutral: 7, negative: 0, positive: 2},…}
+date: "2021-03-18"
+telegram: {neutral: 7, negative: 0, positive: 2}
+negative: 0
+neutral: 7
+positive: 2
+twitter: {neutral: 5268, negative: 250, positive: 1996}
+negative: 250
+neutral: 5268
+positive: 1996
+298: {date: "2021-03-19", telegram: {neutral: 7, negative: 0, positive: 2},…}
+date: "2021-03-19"
+telegram: {neutral: 7, negative: 0, positive: 2}
+negative: 0
+neutral: 7
+positive: 2
+twitter: {neutral: 2114, negative: 81, positive: 871}
+negative: 81
+neutral: 2114
+positive: 871
+299: {date: "2021-03-20", telegram: {neutral: 5, negative: 1, positive: 0},…}
+date: "2021-03-20"
+telegram: {neutral: 5, negative: 1, positive: 0}
+negative: 1
+neutral: 5
+positive: 0
+twitter: {neutral: 552, negative: 28, positive: 177}
+negative: 28
+neutral: 552
+positive: 177
+300: {date: "2021-03-21", telegram: {neutral: 9, negative: 1, positive: 3},…}
+date: "2021-03-21"
+telegram: {neutral: 9, negative: 1, positive: 3}
+negative: 1
+neutral: 9
+positive: 3
+twitter: {neutral: 535, negative: 25, positive: 168}
+negative: 25
+neutral: 535
+positive: 168
+301: {date: "2021-03-22", telegram: {neutral: 5, negative: 0, positive: 1},…}
+date: "2021-03-22"
+telegram: {neutral: 5, negative: 0, positive: 1}
+negative: 0
+neutral: 5
+positive: 1
+twitter: {neutral: 572, negative: 24, positive: 189}
+negative: 24
+neutral: 572
+positive: 189
+302: {date: "2021-03-23", telegram: {neutral: 1, negative: 0, positive: 1},…}
+date: "2021-03-23"
+telegram: {neutral: 1, negative: 0, positive: 1}
+negative: 0
+neutral: 1
+positive: 1
+twitter: {neutral: 519, negative: 18, positive: 182}
+negative: 18
+neutral: 519
+positive: 182
+303: {date: "2021-03-24", telegram: {neutral: 3, negative: 0, positive: 2},…}
+date: "2021-03-24"
+telegram: {neutral: 3, negative: 0, positive: 2}
+negative: 0
+neutral: 3
+positive: 2
+twitter: {neutral: 570, negative: 27, positive: 252}
+negative: 27
+neutral: 570
+positive: 252
+304: {date: "2021-03-25", telegram: {neutral: 4, negative: 0, positive: 1},…}
+date: "2021-03-25"
+telegram: {neutral: 4, negative: 0, positive: 1}
+negative: 0
+neutral: 4
+positive: 1
+twitter: {neutral: 535, negative: 15, positive: 178}
+negative: 15
+neutral: 535
+positive: 178
+305: {date: "2021-03-26", telegram: {neutral: 1, negative: 0, positive: 2},…}
+date: "2021-03-26"
+telegram: {neutral: 1, negative: 0, positive: 2}
+negative: 0
+neutral: 1
+positive: 2
+twitter: {neutral: 536, negative: 16, positive: 203}
+negative: 16
+neutral: 536
+positive: 203
+306: {date: "2021-03-27", telegram: {neutral: 3, negative: 1, positive: 1},…}
+date: "2021-03-27"
+telegram: {neutral: 3, negative: 1, positive: 1}
+negative: 1
+neutral: 3
+positive: 1
+twitter: {neutral: 482, negative: 8, positive: 191}
+negative: 8
+neutral: 482
+positive: 191
+307: {date: "2021-03-28", telegram: {neutral: 10, negative: 0, positive: 3},…}
+date: "2021-03-28"
+telegram: {neutral: 10, negative: 0, positive: 3}
+negative: 0
+neutral: 10
+positive: 3
+twitter: {neutral: 551, negative: 10, positive: 140}
+negative: 10
+neutral: 551
+positive: 140
+308: {date: "2021-03-29", telegram: {neutral: 10, negative: 0, positive: 0},…}
+date: "2021-03-29"
+telegram: {neutral: 10, negative: 0, positive: 0}
+negative: 0
+neutral: 10
+positive: 0
+twitter: {neutral: 553, negative: 14, positive: 178}
+negative: 14
+neutral: 553
+positive: 178
+309: {date: "2021-03-30", telegram: {neutral: 6, negative: 0, positive: 4},…}
+date: "2021-03-30"
+telegram: {neutral: 6, negative: 0, positive: 4}
+negative: 0
+neutral: 6
+positive: 4
+twitter: {neutral: 481, negative: 12, positive: 197}
+negative: 12
+neutral: 481
+positive: 197
+310: {date: "2021-03-31", telegram: {neutral: 4, negative: 0, positive: 1},…}
+date: "2021-03-31"
+telegram: {neutral: 4, negative: 0, positive: 1}
+negative: 0
+neutral: 4
+positive: 1
+twitter: {neutral: 479, negative: 14, positive: 196}
+negative: 14
+neutral: 479
+positive: 196
+311: {date: "2021-04-01", telegram: {neutral: 15, negative: 0, positive: 5},…}
+date: "2021-04-01"
+telegram: {neutral: 15, negative: 0, positive: 5}
+negative: 0
+neutral: 15
+positive: 5
+twitter: {neutral: 661, negative: 25, positive: 257}
+negative: 25
+neutral: 661
+positive: 257
+312: {date: "2021-04-02", telegram: {neutral: 7, negative: 0, positive: 9},…}
+date: "2021-04-02"
+telegram: {neutral: 7, negative: 0, positive: 9}
+negative: 0
+neutral: 7
+positive: 9
+twitter: {neutral: 625, negative: 22, positive: 270}
+negative: 22
+neutral: 625
+positive: 270
+313: {date: "2021-04-03", telegram: {neutral: 2, negative: 0, positive: 7},…}
+date: "2021-04-03"
+telegram: {neutral: 2, negative: 0, positive: 7}
+negative: 0
+neutral: 2
+positive: 7
+twitter: {neutral: 585, negative: 36, positive: 258}
+negative: 36
+neutral: 585
+positive: 258
+314: {date: "2021-04-04", telegram: {neutral: 0, negative: 0, positive: 9},…}
+date: "2021-04-04"
+telegram: {neutral: 0, negative: 0, positive: 9}
+negative: 0
+neutral: 0
+positive: 9
+twitter: {neutral: 540, negative: 14, positive: 199}
+negative: 14
+neutral: 540
+positive: 199
+315: {date: "2021-04-05", telegram: {neutral: 4, negative: 0, positive: 9},…}
+date: "2021-04-05"
+telegram: {neutral: 4, negative: 0, positive: 9}
+negative: 0
+neutral: 4
+positive: 9
+twitter: {neutral: 689, negative: 30, positive: 314}
+negative: 30
+neutral: 689
+positive: 314
+316: {date: "2021-04-06", telegram: {neutral: 3, negative: 0, positive: 8},…}
+date: "2021-04-06"
+telegram: {neutral: 3, negative: 0, positive: 8}
+negative: 0
+neutral: 3
+positive: 8
+twitter: {neutral: 870, negative: 29, positive: 289}
+negative: 29
+neutral: 870
+positive: 289
+317: {date: "2021-04-07", telegram: {neutral: 4, negative: 0, positive: 7},…}
+date: "2021-04-07"
+telegram: {neutral: 4, negative: 0, positive: 7}
+negative: 0
+neutral: 4
+positive: 7
+twitter: {neutral: 919, negative: 40, positive: 242}
+negative: 40
+neutral: 919
+positive: 242
+318: {date: "2021-04-08", telegram: {neutral: 1, negative: 0, positive: 7},…}
+date: "2021-04-08"
+telegram: {neutral: 1, negative: 0, positive: 7}
+negative: 0
+neutral: 1
+positive: 7
+twitter: {neutral: 671, negative: 47, positive: 277}
+negative: 47
+neutral: 671
+positive: 277
+319: {date: "2021-04-09", telegram: {neutral: 4, negative: 0, positive: 7},…}
+date: "2021-04-09"
+telegram: {neutral: 4, negative: 0, positive: 7}
+negative: 0
+neutral: 4
+positive: 7
+twitter: {neutral: 828, negative: 34, positive: 315}
+negative: 34
+neutral: 828
+positive: 315
+320: {date: "2021-04-10", telegram: {neutral: 3, negative: 0, positive: 7},…}
+date: "2021-04-10"
+telegram: {neutral: 3, negative: 0, positive: 7}
+negative: 0
+neutral: 3
+positive: 7
+twitter: {neutral: 917, negative: 54, positive: 284}
+negative: 54
+neutral: 917
+positive: 284
+321: {date: "2021-04-11", telegram: {neutral: 10, negative: 1, positive: 2},…}
+date: "2021-04-11"
+telegram: {neutral: 10, negative: 1, positive: 2}
+negative: 1
+neutral: 10
+positive: 2
+twitter: {neutral: 958, negative: 42, positive: 355}
+negative: 42
+neutral: 958
+positive: 355
+322: {date: "2021-04-12", telegram: {neutral: 3, negative: 0, positive: 1},…}
+date: "2021-04-12"
+telegram: {neutral: 3, negative: 0, positive: 1}
+negative: 0
+neutral: 3
+positive: 1
+twitter: {neutral: 799, negative: 44, positive: 343}
+negative: 44
+neutral: 799
+positive: 343
+323: {date: "2021-04-13", telegram: {neutral: 15, negative: 2, positive: 2},…}
+date: "2021-04-13"
+telegram: {neutral: 15, negative: 2, positive: 2}
+negative: 2
+neutral: 15
+positive: 2
+twitter: {neutral: 1140, negative: 63, positive: 423}
+negative: 63
+neutral: 1140
+positive: 423
+324: {date: "2021-04-14", telegram: {neutral: 32, negative: 2, positive: 9},…}
+date: "2021-04-14"
+telegram: {neutral: 32, negative: 2, positive: 9}
+negative: 2
+neutral: 32
+positive: 9
+twitter: {neutral: 1781, negative: 112, positive: 681}
+negative: 112
+neutral: 1781
+positive: 681
+325: {date: "2021-04-15", telegram: {neutral: 41, negative: 4, positive: 6},…}
+date: "2021-04-15"
+telegram: {neutral: 41, negative: 4, positive: 6}
+negative: 4
+neutral: 41
+positive: 6
+twitter: {neutral: 1348, negative: 73, positive: 560}
+negative: 73
+neutral: 1348
+positive: 560
+326: {date: "2021-04-16", telegram: {neutral: 187, negative: 12, positive: 31},…}
+date: "2021-04-16"
+telegram: {neutral: 187, negative: 12, positive: 31}
+negative: 12
+neutral: 187
+positive: 31
+twitter: {neutral: 3116, negative: 226, positive: 1107}
+negative: 226
+neutral: 3116
+positive: 1107
+327: {date: "2021-04-17", telegram: {neutral: 81, negative: 13, positive: 21},…}
+date: "2021-04-17"
+telegram: {neutral: 81, negative: 13, positive: 21}
+negative: 13
+neutral: 81
+positive: 21
+twitter: {neutral: 1113, negative: 77, positive: 420}
+negative: 77
+neutral: 1113
+positive: 420
+328: {date: "2021-04-20", telegram: {neutral: 57, negative: 5, positive: 33},…}
+date: "2021-04-20"
+telegram: {neutral: 57, negative: 5, positive: 33}
+negative: 5
+neutral: 57
+positive: 33
+twitter: {neutral: 0, negative: 1, positive: 0}
+negative: 1
+neutral: 0
+positive: 0
+329: {date: "2021-04-21", telegram: {neutral: 59, negative: 3, positive: 16},…}
+date: "2021-04-21"
+telegram: {neutral: 59, negative: 3, positive: 16}
+negative: 3
+neutral: 59
+positive: 16
+twitter: {neutral: 1, negative: 0, positive: 1}
+negative: 0
+neutral: 1
+positive: 1
+330: {date: "2021-04-22", telegram: {neutral: 49, negative: 2, positive: 13},…}
+date: "2021-04-22"
+telegram: {neutral: 49, negative: 2, positive: 13}
+negative: 2
+neutral: 49
+positive: 13
+twitter: {neutral: 1, negative: 0, positive: 1}
+negative: 0
+neutral: 1
+positive: 1
+331: {date: "2021-04-23", telegram: {neutral: 21, negative: 0, positive: 8},…}
+date: "2021-04-23"
+telegram: {neutral: 21, negative: 0, positive: 8}
+negative: 0
+neutral: 21
+positive: 8
+twitter: {neutral: 1, negative: 0, positive: 0}
+negative: 0
+neutral: 1
+positive: 0
+332: {date: "2021-04-24", telegram: {neutral: 20, negative: 1, positive: 8},…}
+date: "2021-04-24"
+telegram: {neutral: 20, negative: 1, positive: 8}
+negative: 1
+neutral: 20
+positive: 8
+twitter: {neutral: 1, negative: 0, positive: 0}
+negative: 0
+neutral: 1
+positive: 0
+333: {date: "2021-04-26", telegram: {neutral: 18, negative: 3, positive: 8},…}
+date: "2021-04-26"
+telegram: {neutral: 18, negative: 3, positive: 8}
+negative: 3
+neutral: 18
+positive: 8
+twitter: {neutral: 103, negative: 7, positive: 56}
+negative: 7
+neutral: 103
+positive: 56
+334: {date: "2021-04-27", telegram: {neutral: 8, negative: 1, positive: 6},…}
+date: "2021-04-27"
+telegram: {neutral: 8, negative: 1, positive: 6}
+negative: 1
+neutral: 8
+positive: 6
+twitter: {neutral: 4501, negative: 218, positive: 1646}
+negative: 218
+neutral: 4501
+positive: 1646
+335: {date: "2021-04-28", telegram: {neutral: 33, negative: 2, positive: 10},…}
+date: "2021-04-28"
+telegram: {neutral: 33, negative: 2, positive: 10}
+negative: 2
+neutral: 33
+positive: 10
+twitter: {neutral: 19295, negative: 942, positive: 5478}
+negative: 942
+neutral: 19295
+positive: 5478
+336: {date: "2021-04-29", telegram: {neutral: 19, negative: 0, positive: 5},…}
+date: "2021-04-29"
+telegram: {neutral: 19, negative: 0, positive: 5}
+negative: 0
+neutral: 19
+positive: 5
+twitter: {neutral: 13135, negative: 646, positive: 4441}
+negative: 646
+neutral: 13135
+positive: 4441
+337: {date: "2021-04-30", telegram: {neutral: 19, negative: 2, positive: 5},…}
+date: "2021-04-30"
+telegram: {neutral: 19, negative: 2, positive: 5}
+negative: 2
+neutral: 19
+positive: 5
+twitter: {neutral: 13280, negative: 664, positive: 4456}
+negative: 664
+neutral: 13280
+positive: 4456
+338: {date: "2021-05-01", telegram: {neutral: 27, negative: 2, positive: 6},…}
+date: "2021-05-01"
+telegram: {neutral: 27, negative: 2, positive: 6}
+negative: 2
+neutral: 27
+positive: 6
+twitter: {neutral: 19570, negative: 1007, positive: 5458}
+negative: 1007
+neutral: 19570
+positive: 5458
+339: {date: "2021-05-02", telegram: {neutral: 32, negative: 1, positive: 8},…}
+date: "2021-05-02"
+telegram: {neutral: 32, negative: 1, positive: 8}
+negative: 1
+neutral: 32
+positive: 8
+twitter: {neutral: 16058, negative: 860, positive: 5153}
+negative: 860
+neutral: 16058
+positive: 5153
+340: {date: "2021-05-03", telegram: {neutral: 44, negative: 1, positive: 11},…}
+date: "2021-05-03"
+telegram: {neutral: 44, negative: 1, positive: 11}
+negative: 1
+neutral: 44
+positive: 11
+twitter: {neutral: 27482, negative: 1342, positive: 7758}
+negative: 1342
+neutral: 27482
+positive: 7758
+341: {date: "2021-05-04", telegram: {neutral: 130, negative: 10, positive: 46},…}
+date: "2021-05-04"
+telegram: {neutral: 130, negative: 10, positive: 46}
+negative: 10
+neutral: 130
+positive: 46
+twitter: {neutral: 72807, negative: 4956, positive: 18553}
+negative: 4956
+neutral: 72807
+positive: 18553
+342: {date: "2021-05-05", telegram: {neutral: 207, negative: 20, positive: 45},…}
+date: "2021-05-05"
+telegram: {neutral: 207, negative: 20, positive: 45}
+negative: 20
+neutral: 207
+positive: 45
+twitter: {neutral: 64937, negative: 4551, positive: 18335}
+negative: 4551
+neutral: 64937
+positive: 18335
+343: {date: "2021-05-06", telegram: {neutral: 70, negative: 6, positive: 31},…}
+date: "2021-05-06"
+telegram: {neutral: 70, negative: 6, positive: 31}
+negative: 6
+neutral: 70
+positive: 31
+twitter: {neutral: 32149, negative: 1841, positive: 10410}
+negative: 1841
+neutral: 32149
+positive: 10410
+344: {date: "2021-05-07", telegram: {neutral: 93, negative: 11, positive: 31},…}
+date: "2021-05-07"
+telegram: {neutral: 93, negative: 11, positive: 31}
+negative: 11
+neutral: 93
+positive: 31
+twitter: {neutral: 40616, negative: 2323, positive: 10895}
+negative: 2323
+neutral: 40616
+positive: 10895
+345: {date: "2021-05-08", telegram: {neutral: 108, negative: 8, positive: 43},…}
+date: "2021-05-08"
+telegram: {neutral: 108, negative: 8, positive: 43}
+negative: 8
+neutral: 108
+positive: 43
+twitter: {neutral: 49680, negative: 3691, positive: 13807}
+negative: 3691
+neutral: 49680
+positive: 13807
+346: {date: "2021-05-09", telegram: {neutral: 110, negative: 11, positive: 26},…}
+date: "2021-05-09"
+telegram: {neutral: 110, negative: 11, positive: 26}
+negative: 11
+neutral: 110
+positive: 26
+twitter: {neutral: 74787, negative: 8140, positive: 20949}
+negative: 8140
+neutral: 74787
+positive: 20949
+347: {date: "2021-05-10", telegram: {neutral: 82, negative: 9, positive: 20},…}
+date: "2021-05-10"
+telegram: {neutral: 82, negative: 9, positive: 20}
+negative: 9
+neutral: 82
+positive: 20
+twitter: {neutral: 35791, negative: 3145, positive: 10901}
+negative: 3145
+neutral: 35791
+positive: 10901
+348: {date: "2021-05-11", telegram: {neutral: 60, negative: 5, positive: 21},…}
+date: "2021-05-11"
+telegram: {neutral: 60, negative: 5, positive: 21}
+negative: 5
+neutral: 60
+positive: 21
+twitter: {neutral: 32992, negative: 2480, positive: 12158}
+negative: 2480
+neutral: 32992
+positive: 12158
+349: {date: "2021-05-12", telegram: {neutral: 46, negative: 12, positive: 16},…}
+date: "2021-05-12"
+telegram: {neutral: 46, negative: 12, positive: 16}
+negative: 12
+neutral: 46
+positive: 16
+twitter: {neutral: 30994, negative: 2106, positive: 12037}
+negative: 2106
+neutral: 30994
+positive: 12037
+350: {date: "2021-05-13", telegram: {neutral: 54, negative: 5, positive: 18},…}
+date: "2021-05-13"
+telegram: {neutral: 54, negative: 5, positive: 18}
+negative: 5
+neutral: 54
+positive: 18
+twitter: {neutral: 40543, negative: 3598, positive: 11989}
+negative: 3598
+neutral: 40543
+positive: 11989
+351: {date: "2021-05-14", telegram: {neutral: 61, negative: 4, positive: 11},…}
+date: "2021-05-14"
+telegram: {neutral: 61, negative: 4, positive: 11}
+negative: 4
+neutral: 61
+positive: 11
+twitter: {neutral: 33965, negative: 2805, positive: 10781}
+negative: 2805
+neutral: 33965
+positive: 10781
+352: {date: "2021-05-15", telegram: {neutral: 40, negative: 2, positive: 9},…}
+date: "2021-05-15"
+telegram: {neutral: 40, negative: 2, positive: 9}
+negative: 2
+neutral: 40
+positive: 9
+twitter: {neutral: 21252, negative: 1657, positive: 7862}
+negative: 1657
+neutral: 21252
+positive: 7862
+353: {date: "2021-05-16", telegram: {neutral: 48, negative: 5, positive: 19},…}
+date: "2021-05-16"
+telegram: {neutral: 48, negative: 5, positive: 19}
+negative: 5
+neutral: 48
+positive: 19
+twitter: {neutral: 32378, negative: 3128, positive: 14258}
+negative: 3128
+neutral: 32378
+positive: 14258
+354: {date: "2021-05-17", telegram: {neutral: 25, negative: 2, positive: 21},…}
+date: "2021-05-17"
+telegram: {neutral: 25, negative: 2, positive: 21}
+negative: 2
+neutral: 25
+positive: 21
+twitter: {neutral: 24274, negative: 2272, positive: 13285}
+negative: 2272
+neutral: 24274
+positive: 13285
+355: {date: "2021-05-18", telegram: {neutral: 27, negative: 1, positive: 38},…}
+date: "2021-05-18"
+telegram: {neutral: 27, negative: 1, positive: 38}
+negative: 1
+neutral: 27
+positive: 38
+twitter: {neutral: 16589, negative: 1460, positive: 6757}
+negative: 1460
+neutral: 16589
+positive: 6757
+356: {date: "2021-05-19", telegram: {neutral: 38, negative: 3, positive: 8},…}
+date: "2021-05-19"
+telegram: {neutral: 38, negative: 3, positive: 8}
+negative: 3
+neutral: 38
+positive: 8
+twitter: {neutral: 24293, negative: 2802, positive: 7228}
+negative: 2802
+neutral: 24293
+positive: 7228
+357: {date: "2021-05-20", telegram: {neutral: 45, negative: 3, positive: 5},…}
+date: "2021-05-20"
+telegram: {neutral: 45, negative: 3, positive: 5}
+negative: 3
+neutral: 45
+positive: 5
+twitter: {neutral: 20198, negative: 1545, positive: 7148}
+negative: 1545
+neutral: 20198
+positive: 7148
+358: {date: "2021-05-21", telegram: {neutral: 20, negative: 0, positive: 4},…}
+date: "2021-05-21"
+telegram: {neutral: 20, negative: 0, positive: 4}
+negative: 0
+neutral: 20
+positive: 4
+twitter: {neutral: 16144, negative: 1023, positive: 8301}
+negative: 1023
+neutral: 16144
+positive: 8301
+359: {date: "2021-05-22", telegram: {neutral: 16, negative: 1, positive: 4},…}
+date: "2021-05-22"
+telegram: {neutral: 16, negative: 1, positive: 4}
+negative: 1
+neutral: 16
+positive: 4
+twitter: {neutral: 13821, negative: 812, positive: 7866}
+negative: 812
+neutral: 13821
+positive: 7866
+360: {date: "2021-05-23", telegram: {neutral: 14, negative: 0, positive: 3},…}
+date: "2021-05-23"
+telegram: {neutral: 14, negative: 0, positive: 3}
+negative: 0
+neutral: 14
+positive: 3
+twitter: {neutral: 14093, negative: 1297, positive: 5588}
+negative: 1297
+neutral: 14093
+positive: 5588
+361: {date: "2021-05-24", telegram: {neutral: 18, negative: 0, positive: 11},…}
+date: "2021-05-24"
+telegram: {neutral: 18, negative: 0, positive: 11}
+negative: 0
+neutral: 18
+positive: 11
+twitter: {neutral: 5305, negative: 388, positive: 2295}
+negative: 388
+neutral: 5305
+positive: 2295
+362: {date: "2021-05-25", telegram: {neutral: 21, negative: 0, positive: 86},…}
+date: "2021-05-25"
+telegram: {neutral: 21, negative: 0, positive: 86}
+negative: 0
+neutral: 21
+positive: 86
+twitter: {neutral: 4, negative: 0, positive: 1}
+negative: 0
+neutral: 4
+positive: 1
+363: {date: "2021-05-27", telegram: {neutral: 21, negative: 0, positive: 6},…}
+date: "2021-05-27"
+telegram: {neutral: 21, negative: 0, positive: 6}
+negative: 0
+neutral: 21
+positive: 6
+twitter: {neutral: 1, negative: 0, positive: 1}
+negative: 0
+neutral: 1
+positive: 1
+364: {date: "2021-05-28", telegram: {neutral: 18, negative: 0, positive: 5},…}
+date: "2021-05-28"
+telegram: {neutral: 18, negative: 0, positive: 5}
+negative: 0
+neutral: 18
+positive: 5
+twitter: {neutral: 2, negative: 0, positive: 1}
+negative: 0
+neutral: 2
+positive: 1
+365: {date: "2021-05-29", telegram: {neutral: 14, negative: 0, positive: 1},…}
+date: "2021-05-29"
+telegram: {neutral: 14, negative: 0, positive: 1}
+negative: 0
+neutral: 14
+positive: 1
+twitter: {neutral: 2, negative: 0, positive: 1}
+negative: 0
+neutral: 2
+positive: 1
+366: {date: "2021-05-30", telegram: {neutral: 6, negative: 1, positive: 6},…}
+date: "2021-05-30"
+telegram: {neutral: 6, negative: 1, positive: 6}
+negative: 1
+neutral: 6
+positive: 6
+twitter: {neutral: 4, negative: 0, positive: 2}
+negative: 0
+neutral: 4
+positive: 2
+367: {date: "2021-05-31", telegram: {neutral: 11, negative: 0, positive: 5},…}
+date: "2021-05-31"
+telegram: {neutral: 11, negative: 0, positive: 5}
+negative: 0
+neutral: 11
+positive: 5
+twitter: {neutral: 2, negative: 0, positive: 1}
+negative: 0
+neutral: 2
+positive: 1
+368: {date: "2021-06-01", telegram: {neutral: 15, negative: 0, positive: 1},…}
+date: "2021-06-01"
+telegram: {neutral: 15, negative: 0, positive: 1}
+negative: 0
+neutral: 15
+positive: 1
+twitter: {neutral: 4, negative: 0, positive: 1}
+negative: 0
+neutral: 4
+positive: 1
+369: {date: "2021-06-02", telegram: {neutral: 36, negative: 0, positive: 10},…}
+date: "2021-06-02"
+telegram: {neutral: 36, negative: 0, positive: 10}
+negative: 0
+neutral: 36
+positive: 10
+twitter: {neutral: 16, negative: 1, positive: 4}
+negative: 1
+neutral: 16
+positive: 4
+370: {date: "2021-06-03", telegram: {neutral: 10, negative: 0, positive: 2},…}
+date: "2021-06-03"
+telegram: {neutral: 10, negative: 0, positive: 2}
+negative: 0
+neutral: 10
+positive: 2
+twitter: {neutral: 16, negative: 0, positive: 8}
+negative: 0
+neutral: 16
+positive: 8
+371: {date: "2021-06-04", telegram: {neutral: 25, negative: 0, positive: 3},…}
+date: "2021-06-04"
+telegram: {neutral: 25, negative: 0, positive: 3}
+negative: 0
+neutral: 25
+positive: 3
+twitter: {neutral: 11, negative: 1, positive: 14}
+negative: 1
+neutral: 11
+positive: 14
+372: {date: "2021-06-05", telegram: {neutral: 29, negative: 1, positive: 1},…}
+date: "2021-06-05"
+telegram: {neutral: 29, negative: 1, positive: 1}
+negative: 1
+neutral: 29
+positive: 1
+twitter: {neutral: 17, negative: 0, positive: 5}
+negative: 0
+neutral: 17
+positive: 5
+373: {date: "2021-06-06", telegram: {neutral: 6, negative: 0, positive: 1},…}
+date: "2021-06-06"
+telegram: {neutral: 6, negative: 0, positive: 1}
+negative: 0
+neutral: 6
+positive: 1
+twitter: {neutral: 20, negative: 0, positive: 5}
+negative: 0
+neutral: 20
+positive: 5
+374: {date: "2021-06-07", telegram: {neutral: 7, negative: 0, positive: 4},…}
+date: "2021-06-07"
+telegram: {neutral: 7, negative: 0, positive: 4}
+negative: 0
+neutral: 7
+positive: 4
+twitter: {neutral: 27, negative: 0, positive: 11}
+negative: 0
+neutral: 27
+positive: 11
+375: {date: "2021-06-08", telegram: {neutral: 8, negative: 1, positive: 4},…}
+date: "2021-06-08"
+telegram: {neutral: 8, negative: 1, positive: 4}
+negative: 1
+neutral: 8
+positive: 4
+twitter: {neutral: 49, negative: 4, positive: 19}
+negative: 4
+neutral: 49
+positive: 19
+376: {date: "2021-06-09", telegram: {neutral: 27, negative: 1, positive: 1},…}
+date: "2021-06-09"
+telegram: {neutral: 27, negative: 1, positive: 1}
+negative: 1
+neutral: 27
+positive: 1
+twitter: {neutral: 116, negative: 3, positive: 52}
+negative: 3
+neutral: 116
+positive: 52
+377: {date: "2021-06-10", telegram: {neutral: 20, negative: 1, positive: 4},…}
+date: "2021-06-10"
+telegram: {neutral: 20, negative: 1, positive: 4}
+negative: 1
+neutral: 20
+positive: 4
+twitter: {neutral: 2763, negative: 141, positive: 1314}
+negative: 141
+neutral: 2763
+positive: 1314
+378: {date: "2021-06-11", telegram: {neutral: 12, negative: 0, positive: 0},…}
+date: "2021-06-11"
+telegram: {neutral: 12, negative: 0, positive: 0}
+negative: 0
+neutral: 12
+positive: 0
+twitter: {neutral: 12332, negative: 551, positive: 5357}
+negative: 551
+neutral: 12332
+positive: 5357
+379: {date: "2021-06-12", telegram: {neutral: 19, negative: 2, positive: 1},…}
+date: "2021-06-12"
+telegram: {neutral: 19, negative: 2, positive: 1}
+negative: 2
+neutral: 19
+positive: 1
+twitter: {neutral: 9962, negative: 573, positive: 4830}
+negative: 573
+neutral: 9962
+positive: 4830
+380: {date: "2021-06-13", telegram: {neutral: 11, negative: 0, positive: 4},…}
+date: "2021-06-13"
+telegram: {neutral: 11, negative: 0, positive: 4}
+negative: 0
+neutral: 11
+positive: 4
+twitter: {neutral: 11104, negative: 554, positive: 6356}
+negative: 554
+neutral: 11104
+positive: 6356
+381: {date: "2021-06-14", telegram: {neutral: 19, negative: 0, positive: 2},…}
+date: "2021-06-14"
+telegram: {neutral: 19, negative: 0, positive: 2}
+negative: 0
+neutral: 19
+positive: 2
+twitter: {neutral: 13125, negative: 533, positive: 10258}
+negative: 533
+neutral: 13125
+positive: 10258
+382: {date: "2021-06-15", telegram: {neutral: 8, negative: 3, positive: 1},…}
+date: "2021-06-15"
+telegram: {neutral: 8, negative: 3, positive: 1}
+negative: 3
+neutral: 8
+positive: 1
+twitter: {neutral: 10836, negative: 527, positive: 7505}
+negative: 527
+neutral: 10836
+positive: 7505
+383: {date: "2021-06-16", telegram: {neutral: 12, negative: 0, positive: 0},…}
+date: "2021-06-16"
+telegram: {neutral: 12, negative: 0, positive: 0}
+negative: 0
+neutral: 12
+positive: 0
+twitter: {neutral: 10623, negative: 562, positive: 6037}
+negative: 562
+neutral: 10623
+positive: 6037
+384: {date: "2021-06-17", telegram: {neutral: 7, negative: 0, positive: 2},…}
+date: "2021-06-17"
+telegram: {neutral: 7, negative: 0, positive: 2}
+negative: 0
+neutral: 7
+positive: 2
+twitter: {neutral: 9728, negative: 461, positive: 6010}
+negative: 461
+neutral: 9728
+positive: 6010
+385: {date: "2021-06-18", telegram: {neutral: 17, negative: 1, positive: 3},…}
+date: "2021-06-18"
+telegram: {neutral: 17, negative: 1, positive: 3}
+negative: 1
+neutral: 17
+positive: 3
+twitter: {neutral: 10334, negative: 679, positive: 5576}
+negative: 679
+neutral: 10334
+positive: 5576
+386: {date: "2021-06-19", telegram: {neutral: 11, negative: 0, positive: 0},…}
+date: "2021-06-19"
+telegram: {neutral: 11, negative: 0, positive: 0}
+negative: 0
+neutral: 11
+positive: 0
+twitter: {neutral: 8625, negative: 526, positive: 3677}
+negative: 526
+neutral: 8625
+positive: 3677
+387: {date: "2021-06-20", telegram: {neutral: 9, negative: 0, positive: 6},…}
+date: "2021-06-20"
+telegram: {neutral: 9, negative: 0, positive: 6}
+negative: 0
+neutral: 9
+positive: 6
+twitter: {neutral: 8856, negative: 565, positive: 4156}
+negative: 565
+neutral: 8856
+positive: 4156
+388: {date: "2021-06-21", telegram: {neutral: 11, negative: 3, positive: 3},…}
+date: "2021-06-21"
+telegram: {neutral: 11, negative: 3, positive: 3}
+negative: 3
+neutral: 11
+positive: 3
+twitter: {neutral: 15906, negative: 1630, positive: 5636}
+negative: 1630
+neutral: 15906
+positive: 5636
+389: {date: "2021-06-22", telegram: {neutral: 11, negative: 0, positive: 5},…}
+date: "2021-06-22"
+telegram: {neutral: 11, negative: 0, positive: 5}
+negative: 0
+neutral: 11
+positive: 5
+twitter: {neutral: 16885, negative: 1546, positive: 6371}
+negative: 1546
+neutral: 16885
+positive: 6371
+390: {date: "2021-06-23", telegram: {neutral: 11, negative: 0, positive: 1},…}
+date: "2021-06-23"
+telegram: {neutral: 11, negative: 0, positive: 1}
+negative: 0
+neutral: 11
+positive: 1
+twitter: {neutral: 11271, negative: 627, positive: 9489}
+negative: 627
+neutral: 11271
+positive: 9489
+391: {date: "2021-06-24", telegram: {neutral: 7, negative: 0, positive: 6},…}
+date: "2021-06-24"
+telegram: {neutral: 7, negative: 0, positive: 6}
+negative: 0
+neutral: 7
+positive: 6
+twitter: {neutral: 9444, negative: 469, positive: 3723}
+negative: 469
+neutral: 9444
+positive: 3723
+392: {date: "2021-06-25", telegram: {neutral: 8, negative: 0, positive: 4},…}
+date: "2021-06-25"
+telegram: {neutral: 8, negative: 0, positive: 4}
+negative: 0
+neutral: 8
+positive: 4
+twitter: {neutral: 12152, negative: 727, positive: 4806}
+negative: 727
+neutral: 12152
+positive: 4806
+393: {date: "2021-06-26", telegram: {neutral: 3, negative: 0, positive: 3},…}
+date: "2021-06-26"
+telegram: {neutral: 3, negative: 0, positive: 3}
+negative: 0
+neutral: 3
+positive: 3
+twitter: {neutral: 8005, negative: 439, positive: 4660}
+negative: 439
+neutral: 8005
+positive: 4660
+394: {date: "2021-06-27", telegram: {neutral: 8, negative: 0, positive: 2},…}
+date: "2021-06-27"
+telegram: {neutral: 8, negative: 0, positive: 2}
+negative: 0
+neutral: 8
+positive: 2
+twitter: {neutral: 7975, negative: 381, positive: 3733}
+negative: 381
+neutral: 7975
+positive: 3733
+395: {date: "2021-06-28", telegram: {neutral: 11, negative: 0, positive: 3},…}
+date: "2021-06-28"
+telegram: {neutral: 11, negative: 0, positive: 3}
+negative: 0
+neutral: 11
+positive: 3
+twitter: {neutral: 8267, negative: 484, positive: 4196}
+negative: 484
+neutral: 8267
+positive: 4196
+396: {date: "2021-06-29", telegram: {neutral: 6, negative: 1, positive: 7},…}
+date: "2021-06-29"
+telegram: {neutral: 6, negative: 1, positive: 7}
+negative: 1
+neutral: 6
+positive: 7
+twitter: {neutral: 9607, negative: 465, positive: 4921}
+negative: 465
+neutral: 9607
+positive: 4921
+397: {date: "2021-06-30", telegram: {neutral: 12, negative: 0, positive: 1},…}
+date: "2021-06-30"
+telegram: {neutral: 12, negative: 0, positive: 1}
+negative: 0
+neutral: 12
+positive: 1
+twitter: {neutral: 9378, negative: 456, positive: 5323}
+negative: 456
+neutral: 9378
+positive: 5323
+398: {date: "2021-07-01", telegram: {neutral: 12, negative: 2, positive: 3},…}
+date: "2021-07-01"
+telegram: {neutral: 12, negative: 2, positive: 3}
+negative: 2
+neutral: 12
+positive: 3
+twitter: {neutral: 12284, negative: 721, positive: 5682}
+negative: 721
+neutral: 12284
+positive: 5682
+399: {date: "2021-07-02", telegram: {neutral: 13, negative: 0, positive: 4},…}
+date: "2021-07-02"
+telegram: {neutral: 13, negative: 0, positive: 4}
+negative: 0
+neutral: 13
+positive: 4
+twitter: {neutral: 10673, negative: 573, positive: 4962}
+negative: 573
+neutral: 10673
+positive: 4962
+400: {date: "2021-07-03", telegram: {neutral: 8, negative: 1, positive: 6},…}
+date: "2021-07-03"
+telegram: {neutral: 8, negative: 1, positive: 6}
+negative: 1
+neutral: 8
+positive: 6
+twitter: {neutral: 8938, negative: 467, positive: 4303}
+negative: 467
+neutral: 8938
+positive: 4303
+401: {date: "2021-07-04", telegram: {neutral: 8, negative: 0, positive: 1},…}
+date: "2021-07-04"
+telegram: {neutral: 8, negative: 0, positive: 1}
+negative: 0
+neutral: 8
+positive: 1
+twitter: {neutral: 8000, negative: 420, positive: 3334}
+negative: 420
+neutral: 8000
+positive: 3334
+402: {date: "2021-07-05", telegram: {neutral: 9, negative: 1, positive: 4},…}
+date: "2021-07-05"
+telegram: {neutral: 9, negative: 1, positive: 4}
+negative: 1
+neutral: 9
+positive: 4
+twitter: {neutral: 7818, negative: 414, positive: 4276}
+negative: 414
+neutral: 7818
+positive: 4276
+403: {date: "2021-07-06", telegram: {neutral: 16, negative: 0, positive: 4},…}
+date: "2021-07-06"
+telegram: {neutral: 16, negative: 0, positive: 4}
+negative: 0
+neutral: 16
+positive: 4
+twitter: {neutral: 9153, negative: 529, positive: 4168}
+negative: 529
+neutral: 9153
+positive: 4168
+404: {date: "2021-07-07", telegram: {neutral: 8, negative: 1, positive: 2},…}
+date: "2021-07-07"
+telegram: {neutral: 8, negative: 1, positive: 2}
+negative: 1
+neutral: 8
+positive: 2
+twitter: {neutral: 9918, negative: 447, positive: 4874}
+negative: 447
+neutral: 9918
+positive: 4874
+405: {date: "2021-07-08", telegram: {neutral: 17, negative: 1, positive: 2},…}
+date: "2021-07-08"
+telegram: {neutral: 17, negative: 1, positive: 2}
+negative: 1
+neutral: 17
+positive: 2
+twitter: {neutral: 10237, negative: 605, positive: 4805}
+negative: 605
+neutral: 10237
+positive: 4805
+406: {date: "2021-07-09", telegram: {neutral: 19, negative: 0, positive: 5},…}
+date: "2021-07-09"
+telegram: {neutral: 19, negative: 0, positive: 5}
+negative: 0
+neutral: 19
+positive: 5
+twitter: {neutral: 9886, negative: 583, positive: 4162}
+negative: 583
+neutral: 9886
+positive: 4162
+407: {date: "2021-07-10", telegram: {neutral: 7, negative: 2, positive: 3},…}
+date: "2021-07-10"
+telegram: {neutral: 7, negative: 2, positive: 3}
+negative: 2
+neutral: 7
+positive: 3
+twitter: {neutral: 8147, negative: 493, positive: 5019}
+negative: 493
+neutral: 8147
+positive: 5019
+408: {date: "2021-07-11", telegram: {neutral: 9, negative: 0, positive: 1},…}
+date: "2021-07-11"
+telegram: {neutral: 9, negative: 0, positive: 1}
+negative: 0
+neutral: 9
+positive: 1
+twitter: {neutral: 7421, negative: 373, positive: 3507}
+negative: 373
+neutral: 7421
+positive: 3507
+409: {date: "2021-07-12", telegram: {neutral: 15, negative: 0, positive: 1},…}
+date: "2021-07-12"
+telegram: {neutral: 15, negative: 0, positive: 1}
+negative: 0
+neutral: 15
+positive: 1
+twitter: {neutral: 7870, negative: 385, positive: 4030}
+negative: 385
+neutral: 7870
+positive: 4030
+410: {date: "2021-07-13", telegram: {neutral: 9, negative: 0, positive: 3},…}
+date: "2021-07-13"
+telegram: {neutral: 9, negative: 0, positive: 3}
+negative: 0
+neutral: 9
+positive: 3
+twitter: {neutral: 8504, negative: 472, positive: 4017}
+negative: 472
+neutral: 8504
+positive: 4017
+411: {date: "2021-07-14", telegram: {neutral: 11, negative: 2, positive: 5},…}
+date: "2021-07-14"
+telegram: {neutral: 11, negative: 2, positive: 5}
+negative: 2
+neutral: 11
+positive: 5
+twitter: {neutral: 8927, negative: 589, positive: 3510}
+negative: 589
+neutral: 8927
+positive: 3510
+412: {date: "2021-07-15", telegram: {neutral: 13, negative: 0, positive: 1},…}
+date: "2021-07-15"
+telegram: {neutral: 13, negative: 0, positive: 1}
+negative: 0
+neutral: 13
+positive: 1
+twitter: {neutral: 10229, negative: 837, positive: 3859}
+negative: 837
+neutral: 10229
+positive: 3859
+413: {date: "2021-07-16", telegram: {neutral: 8, negative: 1, positive: 4},…}
+date: "2021-07-16"
+telegram: {neutral: 8, negative: 1, positive: 4}
+negative: 1
+neutral: 8
+positive: 4
+twitter: {neutral: 8780, negative: 651, positive: 2995}
+negative: 651
+neutral: 8780
+positive: 2995
+414: {date: "2021-07-17", telegram: {neutral: 8, negative: 0, positive: 1},…}
+date: "2021-07-17"
+telegram: {neutral: 8, negative: 0, positive: 1}
+negative: 0
+neutral: 8
+positive: 1
+twitter: {neutral: 10212, negative: 526, positive: 3065}
+negative: 526
+neutral: 10212
+positive: 3065
+415: {date: "2021-07-18", telegram: {neutral: 18, negative: 1, positive: 2},…}
+date: "2021-07-18"
+telegram: {neutral: 18, negative: 1, positive: 2}
+negative: 1
+neutral: 18
+positive: 2
+twitter: {neutral: 8128, negative: 372, positive: 3371}
+negative: 372
+neutral: 8128
+positive: 3371
+416: {date: "2021-07-19", telegram: {neutral: 22, negative: 2, positive: 2},…}
+date: "2021-07-19"
+telegram: {neutral: 22, negative: 2, positive: 2}
+negative: 2
+neutral: 22
+positive: 2
+twitter: {neutral: 8670, negative: 439, positive: 3177}
+negative: 439
+neutral: 8670
+positive: 3177
+417: {date: "2021-07-20", telegram: {neutral: 18, negative: 2, positive: 1},…}
+date: "2021-07-20"
+telegram: {neutral: 18, negative: 2, positive: 1}
+negative: 2
+neutral: 18
+positive: 1
+twitter: {neutral: 9800, negative: 637, positive: 2946}
+negative: 637
+neutral: 9800
+positive: 2946
+418: {date: "2021-07-21", telegram: {neutral: 9, negative: 0, positive: 2},…}
+date: "2021-07-21"
+telegram: {neutral: 9, negative: 0, positive: 2}
+negative: 0
+neutral: 9
+positive: 2
+twitter: {neutral: 11692, negative: 540, positive: 3580}
+negative: 540
+neutral: 11692
+positive: 3580
+419: {date: "2021-07-22", telegram: {neutral: 21, negative: 0, positive: 5},…}
+date: "2021-07-22"
+telegram: {neutral: 21, negative: 0, positive: 5}
+negative: 0
+neutral: 21
+positive: 5
+twitter: {neutral: 9410, negative: 358, positive: 4291}
+negative: 358
+neutral: 9410
+positive: 4291
+420: {date: "2021-07-23", telegram: {neutral: 7, negative: 0, positive: 0},…}
+date: "2021-07-23"
+telegram: {neutral: 7, negative: 0, positive: 0}
+negative: 0
+neutral: 7
+positive: 0
+twitter: {neutral: 7473, negative: 275, positive: 3082}
+negative: 275
+neutral: 7473
+positive: 3082
+421: {date: "2021-07-24", telegram: {neutral: 4, negative: 0, positive: 0},…}
+date: "2021-07-24"
+telegram: {neutral: 4, negative: 0, positive: 0}
+negative: 0
+neutral: 4
+positive: 0
+twitter: {neutral: 7833, negative: 256, positive: 4119}
+negative: 256
+neutral: 7833
+positive: 4119
+422: {date: "2021-07-25", telegram: {neutral: 9, negative: 1, positive: 1},…}
+date: "2021-07-25"
+telegram: {neutral: 9, negative: 1, positive: 1}
+negative: 1
+neutral: 9
+positive: 1
+twitter: {neutral: 8370, negative: 279, positive: 4186}
+negative: 279
+neutral: 8370
+positive: 4186
+423: {date: "2021-07-26", telegram: {neutral: 6, negative: 0, positive: 2},…}
+date: "2021-07-26"
+telegram: {neutral: 6, negative: 0, positive: 2}
+negative: 0
+neutral: 6
+positive: 2
+twitter: {neutral: 10715, negative: 417, positive: 4369}
+negative: 417
+neutral: 10715
+positive: 4369
+424: {date: "2021-07-27", telegram: {neutral: 9, negative: 0, positive: 2},…}
+date: "2021-07-27"
+telegram: {neutral: 9, negative: 0, positive: 2}
+negative: 0
+neutral: 9
+positive: 2
+twitter: {neutral: 8419, negative: 371, positive: 3914}
+negative: 371
+neutral: 8419
+positive: 3914
+425: {date: "2021-07-28", telegram: {neutral: 5, negative: 1, positive: 3},…}
+date: "2021-07-28"
+telegram: {neutral: 5, negative: 1, positive: 3}
+negative: 1
+neutral: 5
+positive: 3
+twitter: {neutral: 8726, negative: 323, positive: 6149}
+negative: 323
+neutral: 8726
+positive: 6149
+426: {date: "2021-07-29", telegram: {neutral: 8, negative: 0, positive: 0},…}
+date: "2021-07-29"
+telegram: {neutral: 8, negative: 0, positive: 0}
+negative: 0
+neutral: 8
+positive: 0
+twitter: {neutral: 6888, negative: 346, positive: 3297}
+negative: 346
+neutral: 6888
+positive: 3297
+427: {date: "2021-07-30", telegram: {neutral: 8, negative: 0, positive: 1},…}
+date: "2021-07-30"
+telegram: {neutral: 8, negative: 0, positive: 1}
+negative: 0
+neutral: 8
+positive: 1
+twitter: {neutral: 7472, negative: 385, positive: 2873}
+negative: 385
+neutral: 7472
+positive: 2873
+428: {date: "2021-07-31", telegram: {neutral: 7, negative: 1, positive: 2},…}
+date: "2021-07-31"
+telegram: {neutral: 7, negative: 1, positive: 2}
+negative: 1
+neutral: 7
+positive: 2
+twitter: {neutral: 7294, negative: 370, positive: 2738}
+negative: 370
+neutral: 7294
+positive: 2738
+429: {date: "2021-08-01", telegram: {neutral: 4, negative: 1, positive: 2},…}
+date: "2021-08-01"
+telegram: {neutral: 4, negative: 1, positive: 2}
+negative: 1
+neutral: 4
+positive: 2
+twitter: {neutral: 7178, negative: 380, positive: 3621}
+negative: 380
+neutral: 7178
+positive: 3621
+430: {date: "2021-08-02", telegram: {neutral: 13, negative: 1, positive: 2},…}
+date: "2021-08-02"
+telegram: {neutral: 13, negative: 1, positive: 2}
+negative: 1
+neutral: 13
+positive: 2
+twitter: {neutral: 9245, negative: 317, positive: 4090}
+negative: 317
+neutral: 9245
+positive: 4090
+431: {date: "2021-08-03", telegram: {neutral: 4, negative: 0, positive: 1},…}
+date: "2021-08-03"
+telegram: {neutral: 4, negative: 0, positive: 1}
+negative: 0
+neutral: 4
+positive: 1
+twitter: {neutral: 8397, negative: 310, positive: 3044}
+negative: 310
+neutral: 8397
+positive: 3044
+432: {date: "2021-08-04", telegram: {neutral: 8, negative: 0, positive: 199},…}
+date: "2021-08-04"
+telegram: {neutral: 8, negative: 0, positive: 199}
+negative: 0
+neutral: 8
+positive: 199
+twitter: {neutral: 7686, negative: 284, positive: 3513}
+negative: 284
+neutral: 7686
+positive: 3513
+433: {date: "2021-08-05", telegram: {neutral: 5, negative: 0, positive: 636},…}
+date: "2021-08-05"
+telegram: {neutral: 5, negative: 0, positive: 636}
+negative: 0
+neutral: 5
+positive: 636
+twitter: {neutral: 6640, negative: 274, positive: 3920}
+negative: 274
+neutral: 6640
+positive: 3920
+434: {date: "2021-08-06", telegram: {neutral: 11, negative: 0, positive: 2},…}
+date: "2021-08-06"
+telegram: {neutral: 11, negative: 0, positive: 2}
+negative: 0
+neutral: 11
+positive: 2
+twitter: {neutral: 7528, negative: 278, positive: 5103}
+negative: 278
+neutral: 7528
+positive: 5103
+435: {date: "2021-08-07", telegram: {neutral: 2, negative: 0, positive: 1},…}
+date: "2021-08-07"
+telegram: {neutral: 2, negative: 0, positive: 1}
+negative: 0
+neutral: 2
+positive: 1
+twitter: {neutral: 10422, negative: 453, positive: 7590}
+negative: 453
+neutral: 10422
+positive: 7590
+436: {date: "2021-08-08", telegram: {neutral: 8, negative: 1, positive: 5},…}
+date: "2021-08-08"
+telegram: {neutral: 8, negative: 1, positive: 5}
+negative: 1
+neutral: 8
+positive: 5
+twitter: {neutral: 10373, negative: 413, positive: 5370}
+negative: 413
+neutral: 10373
+positive: 5370
+437: {date: "2021-08-09", telegram: {neutral: 6, negative: 0, positive: 3},…}
+date: "2021-08-09"
+telegram: {neutral: 6, negative: 0, positive: 3}
+negative: 0
+neutral: 6
+positive: 3
+twitter: {neutral: 7711, negative: 322, positive: 2931}
+negative: 322
+neutral: 7711
+positive: 2931
+438: {date: "2021-08-10", telegram: {neutral: 7, negative: 0, positive: 0},…}
+date: "2021-08-10"
+telegram: {neutral: 7, negative: 0, positive: 0}
+negative: 0
+neutral: 7
+positive: 0
+twitter: {neutral: 8586, negative: 294, positive: 2841}
+negative: 294
+neutral: 8586
+positive: 2841
+439: {date: "2021-08-11", telegram: {neutral: 13, negative: 1, positive: 0},…}
+date: "2021-08-11"
+telegram: {neutral: 13, negative: 1, positive: 0}
+negative: 1
+neutral: 13
+positive: 0
+twitter: {neutral: 10051, negative: 374, positive: 3518}
+negative: 374
+neutral: 10051
+positive: 3518
+440: {date: "2021-08-12", telegram: {neutral: 11, negative: 1, positive: 4},…}
+date: "2021-08-12"
+telegram: {neutral: 11, negative: 1, positive: 4}
+negative: 1
+neutral: 11
+positive: 4
+twitter: {neutral: 8173, negative: 330, positive: 2750}
+negative: 330
+neutral: 8173
+positive: 2750
+441: {date: "2021-08-13", telegram: {neutral: 9, negative: 0, positive: 0},…}
+date: "2021-08-13"
+telegram: {neutral: 9, negative: 0, positive: 0}
+negative: 0
+neutral: 9
+positive: 0
+twitter: {neutral: 8079, negative: 362, positive: 2760}
+negative: 362
+neutral: 8079
+positive: 2760
+442: {date: "2021-08-14", telegram: {neutral: 11, negative: 0, positive: 1},…}
+date: "2021-08-14"
+telegram: {neutral: 11, negative: 0, positive: 1}
+negative: 0
+neutral: 11
+positive: 1
+twitter: {neutral: 8280, negative: 382, positive: 2523}
+negative: 382
+neutral: 8280
+positive: 2523
+443: {date: "2021-08-15", telegram: {neutral: 7, negative: 1, positive: 1},…}
+date: "2021-08-15"
+telegram: {neutral: 7, negative: 1, positive: 1}
+negative: 1
+neutral: 7
+positive: 1
+twitter: {neutral: 12234, negative: 619, positive: 3427}
+negative: 619
+neutral: 12234
+positive: 3427
+444: {date: "2021-08-16", telegram: {neutral: 20, negative: 0, positive: 5},…}
+date: "2021-08-16"
+telegram: {neutral: 20, negative: 0, positive: 5}
+negative: 0
+neutral: 20
+positive: 5
+twitter: {neutral: 10132, negative: 430, positive: 2923}
+negative: 430
+neutral: 10132
+positive: 2923
+445: {date: "2021-08-17", telegram: {neutral: 25, negative: 0, positive: 3},…}
+date: "2021-08-17"
+telegram: {neutral: 25, negative: 0, positive: 3}
+negative: 0
+neutral: 25
+positive: 3
+twitter: {neutral: 8419, negative: 367, positive: 2367}
+negative: 367
+neutral: 8419
+positive: 2367
+446: {date: "2021-08-18", telegram: {neutral: 25, negative: 0, positive: 12},…}
+date: "2021-08-18"
+telegram: {neutral: 25, negative: 0, positive: 12}
+negative: 0
+neutral: 25
+positive: 12
+twitter: {neutral: 9115, negative: 366, positive: 2615}
+negative: 366
+neutral: 9115
+positive: 2615
+447: {date: "2021-08-19", telegram: {neutral: 15, negative: 0, positive: 0},…}
+date: "2021-08-19"
+telegram: {neutral: 15, negative: 0, positive: 0}
+negative: 0
+neutral: 15
+positive: 0
+twitter: {neutral: 9328, negative: 319, positive: 3198}
+negative: 319
+neutral: 9328
+positive: 3198
+448: {date: "2021-08-20", telegram: {neutral: 15, negative: 2, positive: 1},…}
+date: "2021-08-20"
+telegram: {neutral: 15, negative: 2, positive: 1}
+negative: 2
+neutral: 15
+positive: 1
+twitter: {neutral: 12147, negative: 295, positive: 2856}
+negative: 295
+neutral: 12147
+positive: 2856
+449: {date: "2021-08-21", telegram: {neutral: 10, negative: 0, positive: 0},…}
+date: "2021-08-21"
+telegram: {neutral: 10, negative: 0, positive: 0}
+negative: 0
+neutral: 10
+positive: 0
+twitter: {neutral: 11999, negative: 303, positive: 2495}
+negative: 303
+neutral: 11999
+positive: 2495
+450: {date: "2021-08-22", telegram: {neutral: 8, negative: 0, positive: 1},…}
+date: "2021-08-22"
+telegram: {neutral: 8, negative: 0, positive: 1}
+negative: 0
+neutral: 8
+positive: 1
+twitter: {neutral: 6537, negative: 282, positive: 1647}
+negative: 282
+neutral: 6537
+positive: 1647
+451: {date: "2021-08-23", telegram: {neutral: 13, negative: 0, positive: 28},…}
+date: "2021-08-23"
+telegram: {neutral: 13, negative: 0, positive: 28}
+negative: 0
+neutral: 13
+positive: 28
+twitter: {neutral: 6808, negative: 269, positive: 2026}
+negative: 269
+neutral: 6808
+positive: 2026
+452: {date: "2021-08-24", telegram: {neutral: 4, negative: 0, positive: 4},…}
+date: "2021-08-24"
+telegram: {neutral: 4, negative: 0, positive: 4}
+negative: 0
+neutral: 4
+positive: 4
+twitter: {neutral: 5917, negative: 256, positive: 1798}
+negative: 256
+neutral: 5917
+positive: 1798
+453: {date: "2021-08-25", telegram: {neutral: 12, negative: 0, positive: 5},…}
+date: "2021-08-25"
+telegram: {neutral: 12, negative: 0, positive: 5}
+negative: 0
+neutral: 12
+positive: 5
+twitter: {neutral: 5908, negative: 246, positive: 1962}
+negative: 246
+neutral: 5908
+positive: 1962
+454: {date: "2021-08-26", telegram: {neutral: 9, negative: 0, positive: 7},…}
+date: "2021-08-26"
+telegram: {neutral: 9, negative: 0, positive: 7}
+negative: 0
+neutral: 9
+positive: 7
+twitter: {neutral: 6029, negative: 327, positive: 2157}
+negative: 327
+neutral: 6029
+positive: 2157
+455: {date: "2021-08-27", telegram: {neutral: 7, negative: 2, positive: 7},…}
+date: "2021-08-27"
+telegram: {neutral: 7, negative: 2, positive: 7}
+negative: 2
+neutral: 7
+positive: 7
+twitter: {neutral: 8307, negative: 495, positive: 4797}
+negative: 495
+neutral: 8307
+positive: 4797
+456: {date: "2021-08-28", telegram: {neutral: 3, negative: 0, positive: 1},…}
+date: "2021-08-28"
+telegram: {neutral: 3, negative: 0, positive: 1}
+negative: 0
+neutral: 3
+positive: 1
+twitter: {neutral: 5717, negative: 288, positive: 1636}
+negative: 288
+neutral: 5717
+positive: 1636
+457: {date: "2021-08-29", telegram: {neutral: 8, negative: 1, positive: 10},…}
+date: "2021-08-29"
+telegram: {neutral: 8, negative: 1, positive: 10}
+negative: 1
+neutral: 8
+positive: 10
+twitter: {neutral: 5573, negative: 350, positive: 1685}
+negative: 350
+neutral: 5573
+positive: 1685
+458: {date: "2021-08-30", telegram: {neutral: 14, negative: 1, positive: 10},…}
+date: "2021-08-30"
+telegram: {neutral: 14, negative: 1, positive: 10}
+negative: 1
+neutral: 14
+positive: 10
+twitter: {neutral: 5919, negative: 292, positive: 1919}
+negative: 292
+neutral: 5919
+positive: 1919
+459: {date: "2021-08-31", telegram: {neutral: 13, negative: 1, positive: 17},…}
+date: "2021-08-31"
+telegram: {neutral: 13, negative: 1, positive: 17}
+negative: 1
+neutral: 13
+positive: 17
+twitter: {neutral: 6279, negative: 355, positive: 1868}
+negative: 355
+neutral: 6279
+positive: 1868
+460: {date: "2021-09-01", telegram: {neutral: 13, negative: 1, positive: 13},…}
+date: "2021-09-01"
+telegram: {neutral: 13, negative: 1, positive: 13}
+negative: 1
+neutral: 13
+positive: 13
+twitter: {neutral: 6599, negative: 339, positive: 1907}
+negative: 339
+neutral: 6599
+positive: 1907
+461: {date: "2021-09-02", telegram: {neutral: 18, negative: 1, positive: 3},…}
+date: "2021-09-02"
+telegram: {neutral: 18, negative: 1, positive: 3}
+negative: 1
+neutral: 18
+positive: 3
+twitter: {neutral: 7899, negative: 339, positive: 2579}
+negative: 339
+neutral: 7899
+positive: 2579
+462: {date: "2021-09-03", telegram: {neutral: 26, negative: 1, positive: 9},…}
+date: "2021-09-03"
+telegram: {neutral: 26, negative: 1, positive: 9}
+negative: 1
+neutral: 26
+positive: 9
+twitter: {neutral: 7379, negative: 323, positive: 2234}
+negative: 323
+neutral: 7379
+positive: 2234
+463: {date: "2021-09-04", telegram: {neutral: 4, negative: 1, positive: 0},…}
+date: "2021-09-04"
+telegram: {neutral: 4, negative: 1, positive: 0}
+negative: 1
+neutral: 4
+positive: 0
+twitter: {neutral: 6571, negative: 259, positive: 1706}
+negative: 259
+neutral: 6571
+positive: 1706
+464: {date: "2021-09-05", telegram: {neutral: 10, negative: 0, positive: 9},…}
+date: "2021-09-05"
+telegram: {neutral: 10, negative: 0, positive: 9}
+negative: 0
+neutral: 10
+positive: 9
+twitter: {neutral: 6491, negative: 270, positive: 1810}
+negative: 270
+neutral: 6491
+positive: 1810
+465: {date: "2021-09-06", telegram: {neutral: 10, negative: 0, positive: 5},…}
+date: "2021-09-06"
+telegram: {neutral: 10, negative: 0, positive: 5}
+negative: 0
+neutral: 10
+positive: 5
+twitter: {neutral: 6230, negative: 264, positive: 1820}
+negative: 264
+neutral: 6230
+positive: 1820
+466: {date: "2021-09-07", telegram: {neutral: 3, negative: 0, positive: 3},…}
+date: "2021-09-07"
+telegram: {neutral: 3, negative: 0, positive: 3}
+negative: 0
+neutral: 3
+positive: 3
+twitter: {neutral: 6838, negative: 378, positive: 1767}
+negative: 378
+neutral: 6838
+positive: 1767
+467: {date: "2021-09-08", telegram: {neutral: 6, negative: 1, positive: 3},…}
+date: "2021-09-08"
+telegram: {neutral: 6, negative: 1, positive: 3}
+negative: 1
+neutral: 6
+positive: 3
+twitter: {neutral: 5940, negative: 309, positive: 1752}
+negative: 309
+neutral: 5940
+positive: 1752
+468: {date: "2021-09-09", telegram: {neutral: 8, negative: 0, positive: 1},…}
+date: "2021-09-09"
+telegram: {neutral: 8, negative: 0, positive: 1}
+negative: 0
+neutral: 8
+positive: 1
+twitter: {neutral: 5271, negative: 308, positive: 1813}
+negative: 308
+neutral: 5271
+positive: 1813
+469: {date: "2021-09-10", telegram: {neutral: 7, negative: 1, positive: 2},…}
+date: "2021-09-10"
+telegram: {neutral: 7, negative: 1, positive: 2}
+negative: 1
+neutral: 7
+positive: 2
+twitter: {neutral: 5456, negative: 267, positive: 1732}
+negative: 267
+neutral: 5456
+positive: 1732
+470: {date: "2021-09-11", telegram: {neutral: 2, negative: 0, positive: 5},…}
+date: "2021-09-11"
+telegram: {neutral: 2, negative: 0, positive: 5}
+negative: 0
+neutral: 2
+positive: 5
+twitter: {neutral: 4625, negative: 249, positive: 1729}
+negative: 249
+neutral: 4625
+positive: 1729
+471: {date: "2021-09-12", telegram: {neutral: 4, negative: 2, positive: 0},…}
+date: "2021-09-12"
+telegram: {neutral: 4, negative: 2, positive: 0}
+negative: 2
+neutral: 4
+positive: 0
+twitter: {neutral: 5074, negative: 213, positive: 1503}
+negative: 213
+neutral: 5074
+positive: 1503
+472: {date: "2021-09-13", telegram: {neutral: 10, negative: 0, positive: 1},…}
+date: "2021-09-13"
+telegram: {neutral: 10, negative: 0, positive: 1}
+negative: 0
+neutral: 10
+positive: 1
+twitter: {neutral: 6291, negative: 314, positive: 2910}
+negative: 314
+neutral: 6291
+positive: 2910
+473: {date: "2021-09-14", telegram: {neutral: 6, negative: 1, positive: 1},…}
+date: "2021-09-14"
+telegram: {neutral: 6, negative: 1, positive: 1}
+negative: 1
+neutral: 6
+positive: 1
+twitter: {neutral: 6086, negative: 242, positive: 2300}
+negative: 242
+neutral: 6086
+positive: 2300
+474: {date: "2021-09-15", telegram: {neutral: 6, negative: 0, positive: 0},…}
+date: "2021-09-15"
+telegram: {neutral: 6, negative: 0, positive: 0}
+negative: 0
+neutral: 6
+positive: 0
+twitter: {neutral: 6903, negative: 237, positive: 1797}
+negative: 237
+neutral: 6903
+positive: 1797
+475: {date: "2021-09-16", telegram: {neutral: 3, negative: 0, positive: 0},…}
+date: "2021-09-16"
+telegram: {neutral: 3, negative: 0, positive: 0}
+negative: 0
+neutral: 3
+positive: 0
+twitter: {neutral: 6825, negative: 341, positive: 1907}
+negative: 341
+neutral: 6825
+positive: 1907
+476: {date: "2021-09-17", telegram: {neutral: 4, negative: 0, positive: 1},…}
+date: "2021-09-17"
+telegram: {neutral: 4, negative: 0, positive: 1}
+negative: 0
+neutral: 4
+positive: 1
+twitter: {neutral: 6862, negative: 315, positive: 2700}
+negative: 315
+neutral: 6862
+positive: 2700
+477: {date: "2021-09-18", telegram: {neutral: 2, negative: 0, positive: 6},…}
+date: "2021-09-18"
+telegram: {neutral: 2, negative: 0, positive: 6}
+negative: 0
+neutral: 2
+positive: 6
+twitter: {neutral: 5813, negative: 229, positive: 1983}
+negative: 229
+neutral: 5813
+positive: 1983
+478: {date: "2021-09-19", telegram: {neutral: 7, negative: 0, positive: 4},…}
+date: "2021-09-19"
+telegram: {neutral: 7, negative: 0, positive: 4}
+negative: 0
+neutral: 7
+positive: 4
+twitter: {neutral: 4958, negative: 203, positive: 1607}
+negative: 203
+neutral: 4958
+positive: 1607
+479: {date: "2021-09-20", telegram: {neutral: 13, negative: 1, positive: 2},…}
+date: "2021-09-20"
+telegram: {neutral: 13, negative: 1, positive: 2}
+negative: 1
+neutral: 13
+positive: 2
+twitter: {neutral: 5856, negative: 319, positive: 1493}
+negative: 319
+neutral: 5856
+positive: 1493
+480: {date: "2021-09-21", telegram: {neutral: 3, negative: 0, positive: 0},…}
+date: "2021-09-21"
+telegram: {neutral: 3, negative: 0, positive: 0}
+negative: 0
+neutral: 3
+positive: 0
+twitter: {neutral: 6134, negative: 275, positive: 2096}
+negative: 275
+neutral: 6134
+positive: 2096
+481: {date: "2021-09-22", telegram: {neutral: 8, negative: 0, positive: 4},…}
+date: "2021-09-22"
+telegram: {neutral: 8, negative: 0, positive: 4}
+negative: 0
+neutral: 8
+positive: 4
+twitter: {neutral: 8414, negative: 357, positive: 2866}
+negative: 357
+neutral: 8414
+positive: 2866
+482: {date: "2021-09-23", telegram: {neutral: 13, negative: 0, positive: 4},…}
+date: "2021-09-23"
+telegram: {neutral: 13, negative: 0, positive: 4}
+negative: 0
+neutral: 13
+positive: 4
+twitter: {neutral: 6684, negative: 304, positive: 2408}
+negative: 304
+neutral: 6684
+positive: 2408
+483: {date: "2021-09-24", telegram: {neutral: 8, negative: 2, positive: 2},…}
+date: "2021-09-24"
+telegram: {neutral: 8, negative: 2, positive: 2}
+negative: 2
+neutral: 8
+positive: 2
+twitter: {neutral: 6382, negative: 428, positive: 2270}
+negative: 428
+neutral: 6382
+positive: 2270
+484: {date: "2021-09-25", telegram: {neutral: 23, negative: 4, positive: 7},…}
+date: "2021-09-25"
+telegram: {neutral: 23, negative: 4, positive: 7}
+negative: 4
+neutral: 23
+positive: 7
+twitter: {neutral: 4237, negative: 202, positive: 1268}
+negative: 202
+neutral: 4237
+positive: 1268
+485: {date: "2021-09-26", telegram: {neutral: 5, negative: 5, positive: 3},…}
+date: "2021-09-26"
+telegram: {neutral: 5, negative: 5, positive: 3}
+negative: 5
+neutral: 5
+positive: 3
+twitter: {neutral: 4342, negative: 219, positive: 1182}
+negative: 219
+neutral: 4342
+positive: 1182
+486: {date: "2021-09-27", telegram: {neutral: 7, negative: 0, positive: 0},…}
+date: "2021-09-27"
+telegram: {neutral: 7, negative: 0, positive: 0}
+negative: 0
+neutral: 7
+positive: 0
+twitter: {neutral: 4910, negative: 211, positive: 1360}
+negative: 211
+neutral: 4910
+positive: 1360
+487: {date: "2021-09-28", telegram: {neutral: 2, negative: 0, positive: 1},…}
+date: "2021-09-28"
+telegram: {neutral: 2, negative: 0, positive: 1}
+negative: 0
+neutral: 2
+positive: 1
+twitter: {neutral: 5672, negative: 260, positive: 1642}
+negative: 260
+neutral: 5672
+positive: 1642
+488: {date: "2021-09-29", telegram: {neutral: 6, negative: 0, positive: 1},…}
+date: "2021-09-29"
+telegram: {neutral: 6, negative: 0, positive: 1}
+negative: 0
+neutral: 6
+positive: 1
+twitter: {neutral: 6700, negative: 274, positive: 2558}
+negative: 274
+neutral: 6700
+positive: 2558
+489: {date: "2021-09-30", telegram: {neutral: 6, negative: 0, positive: 0},…}
+date: "2021-09-30"
+telegram: {neutral: 6, negative: 0, positive: 0}
+negative: 0
+neutral: 6
+positive: 0
+twitter: {neutral: 6719, negative: 235, positive: 1831}
+negative: 235
+neutral: 6719
+positive: 1831
+490: {date: "2021-10-01", telegram: {neutral: 9, negative: 0, positive: 1},…}
+date: "2021-10-01"
+telegram: {neutral: 9, negative: 0, positive: 1}
+negative: 0
+neutral: 9
+positive: 1
+twitter: {neutral: 6555, negative: 239, positive: 1888}
+negative: 239
+neutral: 6555
+positive: 1888
+491: {date: "2021-10-02", telegram: {neutral: 2, negative: 0, positive: 0},…}
+date: "2021-10-02"
+telegram: {neutral: 2, negative: 0, positive: 0}
+negative: 0
+neutral: 2
+positive: 0
+twitter: {neutral: 4783, negative: 165, positive: 1414}
+negative: 165
+neutral: 4783
+positive: 1414
+492: {date: "2021-10-03", telegram: {neutral: 5, negative: 0, positive: 1},…}
+date: "2021-10-03"
+telegram: {neutral: 5, negative: 0, positive: 1}
+negative: 0
+neutral: 5
+positive: 1
+twitter: {neutral: 2146, negative: 105, positive: 752}
+negative: 105
+neutral: 2146
+positive: 752
+493: {date: "2021-10-04", telegram: {neutral: 12, negative: 0, positive: 4},…}
+date: "2021-10-04"
+telegram: {neutral: 12, negative: 0, positive: 4}
+negative: 0
+neutral: 12
+positive: 4
+twitter: {neutral: 60, negative: 0, positive: 23}
+negative: 0
+neutral: 60
+positive: 23
+494: {date: "2021-10-05", telegram: {neutral: 7, negative: 0, positive: 4},…}
+date: "2021-10-05"
+telegram: {neutral: 7, negative: 0, positive: 4}
+negative: 0
+neutral: 7
+positive: 4
+twitter: {neutral: 89, negative: 3, positive: 43}
+negative: 3
+neutral: 89
+positive: 43
+495: {date: "2021-10-06", telegram: {neutral: 11, negative: 0, positive: 5},…}
+date: "2021-10-06"
+telegram: {neutral: 11, negative: 0, positive: 5}
+negative: 0
+neutral: 11
+positive: 5
+twitter: {neutral: 172, negative: 6, positive: 72}
+negative: 6
+neutral: 172
+positive: 72
+496: {date: "2021-10-07", telegram: {neutral: 10, negative: 1, positive: 4},…}
+date: "2021-10-07"
+telegram: {neutral: 10, negative: 1, positive: 4}
+negative: 1
+neutral: 10
+positive: 4
+twitter: {neutral: 2189, negative: 135, positive: 715}
+negative: 135
+neutral: 2189
+positive: 715
+497: {date: "2021-10-08", telegram: {neutral: 12, negative: 3, positive: 2},…}
+date: "2021-10-08"
+telegram: {neutral: 12, negative: 3, positive: 2}
+negative: 3
+neutral: 12
+positive: 2
+twitter: {neutral: 7883, negative: 429, positive: 2150}
+negative: 429
+neutral: 7883
+positive: 2150
+498: {date: "2021-10-09", telegram: {neutral: 4, negative: 0, positive: 0},…}
+date: "2021-10-09"
+telegram: {neutral: 4, negative: 0, positive: 0}
+negative: 0
+neutral: 4
+positive: 0
+twitter: {neutral: 7847, negative: 325, positive: 1888}
+negative: 325
+neutral: 7847
+positive: 1888
+499: {date: "2021-10-10", telegram: {neutral: 10, negative: 0, positive: 2},…}
+date: "2021-10-10"
+telegram: {neutral: 10, negative: 0, positive: 2}
+negative: 0
+neutral: 10
+positive: 2
+twitter: {neutral: 6862, negative: 312, positive: 2064}
+negative: 312
+neutral: 6862
+positive: 2064
+500: {date: "2021-10-11", telegram: {neutral: 4, negative: 0, positive: 0},…}
+date: "2021-10-11"
+telegram: {neutral: 4, negative: 0, positive: 0}
+negative: 0
+neutral: 4
+positive: 0
+twitter: {neutral: 7210, negative: 394, positive: 2070}
+negative: 394
+neutral: 7210
+positive: 2070
+501: {date: "2021-10-12", telegram: {neutral: 2, negative: 1, positive: 19},…}
+date: "2021-10-12"
+telegram: {neutral: 2, negative: 1, positive: 19}
+negative: 1
+neutral: 2
+positive: 19
+twitter: {neutral: 7851, negative: 397, positive: 2149}
+negative: 397
+neutral: 7851
+positive: 2149
+502: {date: "2021-10-13", telegram: {neutral: 6, negative: 1, positive: 1},…}
+date: "2021-10-13"
+telegram: {neutral: 6, negative: 1, positive: 1}
+negative: 1
+neutral: 6
+positive: 1
+twitter: {neutral: 7437, negative: 366, positive: 1912}
+negative: 366
+neutral: 7437
+positive: 1912
+503: {date: "2021-10-14", telegram: {neutral: 11, negative: 0, positive: 3},…}
+date: "2021-10-14"
+telegram: {neutral: 11, negative: 0, positive: 3}
+negative: 0
+neutral: 11
+positive: 3
+twitter: {neutral: 8416, negative: 393, positive: 2314}
+negative: 393
+neutral: 8416
+positive: 2314
+504: {date: "2021-10-15", telegram: {neutral: 8, negative: 0, positive: 3},…}
+date: "2021-10-15"
+telegram: {neutral: 8, negative: 0, positive: 3}
+negative: 0
+neutral: 8
+positive: 3
+twitter: {neutral: 7378, negative: 291, positive: 1931}
+negative: 291
+neutral: 7378
+positive: 1931
+505: {date: "2021-10-16", telegram: {neutral: 6, negative: 0, positive: 2},…}
+date: "2021-10-16"
+telegram: {neutral: 6, negative: 0, positive: 2}
+negative: 0
+neutral: 6
+positive: 2
+twitter: {neutral: 7164, negative: 222, positive: 1755}
+negative: 222
+neutral: 7164
+positive: 1755
+506: {date: "2021-10-17", telegram: {neutral: 3, negative: 0, positive: 1},…}
+date: "2021-10-17"
+telegram: {neutral: 3, negative: 0, positive: 1}
+negative: 0
+neutral: 3
+positive: 1
+twitter: {neutral: 7910, negative: 291, positive: 2085}
+negative: 291
+neutral: 7910
+positive: 2085
+507: {date: "2021-10-18", telegram: {neutral: 11, negative: 0, positive: 2},…}
+date: "2021-10-18"
+telegram: {neutral: 11, negative: 0, positive: 2}
+negative: 0
+neutral: 11
+positive: 2
+twitter: {neutral: 10288, negative: 433, positive: 2542}
+negative: 433
+neutral: 10288
+positive: 2542
+508: {date: "2021-10-19", telegram: {neutral: 14, negative: 1, positive: 2},…}
+date: "2021-10-19"
+telegram: {neutral: 14, negative: 1, positive: 2}
+negative: 1
+neutral: 14
+positive: 2
+twitter: {neutral: 8063, negative: 377, positive: 2177}
+negative: 377
+neutral: 8063
+positive: 2177
+509: {date: "2021-10-20", telegram: {neutral: 9, negative: 0, positive: 2},…}
+date: "2021-10-20"
+telegram: {neutral: 9, negative: 0, positive: 2}
+negative: 0
+neutral: 9
+positive: 2
+twitter: {neutral: 8556, negative: 397, positive: 2222}
+negative: 397
+neutral: 8556
+positive: 2222
+510: {date: "2021-10-21", telegram: {neutral: 5, negative: 0, positive: 1},…}
+date: "2021-10-21"
+telegram: {neutral: 5, negative: 0, positive: 1}
+negative: 0
+neutral: 5
+positive: 1
+twitter: {neutral: 7942, negative: 356, positive: 2090}
+negative: 356
+neutral: 7942
+positive: 2090
+511: {date: "2021-10-22", telegram: {neutral: 8, negative: 2, positive: 1},…}
+date: "2021-10-22"
+telegram: {neutral: 8, negative: 2, positive: 1}
+negative: 2
+neutral: 8
+positive: 1
+twitter: {neutral: 10396, negative: 354, positive: 2541}
+negative: 354
+neutral: 10396
+positive: 2541
+512: {date: "2021-10-23", telegram: {neutral: 2, negative: 0, positive: 0},…}
+date: "2021-10-23"
+telegram: {neutral: 2, negative: 0, positive: 0}
+negative: 0
+neutral: 2
+positive: 0
+twitter: {neutral: 8199, negative: 264, positive: 2612}
+negative: 264
+neutral: 8199
+positive: 2612
+513: {date: "2021-10-24", telegram: {neutral: 3, negative: 0, positive: 0},…}
+date: "2021-10-24"
+telegram: {neutral: 3, negative: 0, positive: 0}
+negative: 0
+neutral: 3
+positive: 0
+twitter: {neutral: 17231, negative: 1189, positive: 4975}
+negative: 1189
+neutral: 17231
+positive: 4975
+514: {date: "2021-10-25", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-10-25"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 13081, negative: 673, positive: 3888}
+negative: 673
+neutral: 13081
+positive: 3888
+515: {date: "2021-10-26", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-10-26"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 12546, negative: 588, positive: 4166}
+negative: 588
+neutral: 12546
+positive: 4166
+516: {date: "2021-10-27", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-10-27"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 18925, negative: 1679, positive: 6048}
+negative: 1679
+neutral: 18925
+positive: 6048
+517: {date: "2021-10-28", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-10-28"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 29361, negative: 1787, positive: 7692}
+negative: 1787
+neutral: 29361
+positive: 7692
+518: {date: "2021-10-29", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-10-29"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 14857, negative: 784, positive: 4141}
+negative: 784
+neutral: 14857
+positive: 4141
+519: {date: "2021-10-30", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-10-30"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 11529, negative: 524, positive: 4066}
+negative: 524
+neutral: 11529
+positive: 4066
+520: {date: "2021-10-31", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-10-31"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 12919, negative: 638, positive: 4797}
+negative: 638
+neutral: 12919
+positive: 4797
+521: {date: "2021-11-01", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-11-01"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 12932, negative: 691, positive: 4852}
+negative: 691
+neutral: 12932
+positive: 4852
+522: {date: "2021-11-02", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-11-02"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 14099, negative: 695, positive: 4917}
+negative: 695
+neutral: 14099
+positive: 4917
+523: {date: "2021-11-03", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-11-03"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 11100, negative: 468, positive: 5094}
+negative: 468
+neutral: 11100
+positive: 5094
+524: {date: "2021-11-04", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-11-04"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 13474, negative: 608, positive: 5341}
+negative: 608
+neutral: 13474
+positive: 5341
+525: {date: "2021-11-05", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-11-05"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 10955, negative: 574, positive: 3888}
+negative: 574
+neutral: 10955
+positive: 3888
+526: {date: "2021-11-06", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-11-06"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 10395, negative: 356, positive: 3042}
+negative: 356
+neutral: 10395
+positive: 3042
+527: {date: "2021-11-07", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-11-07"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 10025, negative: 403, positive: 3141}
+negative: 403
+neutral: 10025
+positive: 3141
+528: {date: "2021-11-08", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-11-08"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 12100, negative: 440, positive: 3705}
+negative: 440
+neutral: 12100
+positive: 3705
+529: {date: "2021-11-09", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-11-09"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 11225, negative: 482, positive: 3612}
+negative: 482
+neutral: 11225
+positive: 3612
+530: {date: "2021-11-10", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-11-10"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 10050, negative: 507, positive: 4064}
+negative: 507
+neutral: 10050
+positive: 4064
+531: {date: "2021-11-11", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-11-11"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 10836, negative: 437, positive: 3302}
+negative: 437
+neutral: 10836
+positive: 3302
+532: {date: "2021-11-12", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-11-12"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 11579, negative: 466, positive: 3249}
+negative: 466
+neutral: 11579
+positive: 3249
+533: {date: "2021-11-13", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-11-13"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 9728, negative: 323, positive: 3530}
+negative: 323
+neutral: 9728
+positive: 3530
+534: {date: "2021-11-14", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-11-14"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 8823, negative: 425, positive: 3614}
+negative: 425
+neutral: 8823
+positive: 3614
+535: {date: "2021-11-15", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-11-15"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 10213, negative: 413, positive: 3257}
+negative: 413
+neutral: 10213
+positive: 3257
+536: {date: "2021-11-16", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-11-16"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 9102, negative: 460, positive: 3393}
+negative: 460
+neutral: 9102
+positive: 3393
+537: {date: "2021-11-17", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-11-17"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 9122, negative: 413, positive: 3209}
+negative: 413
+neutral: 9122
+positive: 3209
+538: {date: "2021-11-18", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-11-18"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 10197, negative: 456, positive: 3223}
+negative: 456
+neutral: 10197
+positive: 3223
+539: {date: "2021-11-19", telegram: {neutral: 0, negative: 0, positive: 0},…}
+date: "2021-11-19"
+telegram: {neutral: 0, negative: 0, positive: 0}
+negative: 0
+neutral: 0
+positive: 0
+twitter: {neutral: 9509, negative: 571, positive: 2535}
+negative: 571
+neutral: 9509
+positive: 2535
