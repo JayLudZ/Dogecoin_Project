@@ -22,6 +22,6 @@ Data cleaning and modeling is performed in the Jupyter notebook `dogecoin_projec
 
 ![Dogecoin prices](plots/dogecoin_prices.png)
 
-![Twitter sentiment](plots\twitter_sentiment.png)
+![Twitter sentiment](plots/twitter_sentiment.png)
 
-![Model predictions](plots\model_predictions.png)
+![Model predictions](plots/model_predictions.png)
